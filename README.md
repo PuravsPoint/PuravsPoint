@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>👋🏽 Hi, I'm Purav!</h1>
 
-<!--
-**PuravsPoint/PuravsPoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Microsoft Security Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Unified Audit Log</b>
+  - [Deciphering the Unified Audit Log]()
+- <b>eDiscovery (Coming soon)</b>
+- <b>Exchange Online (Coming soon)</b>
+ 
+<h2>✅ Certifications:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [SC-200](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/832F0A579BDB4C5B?sharingId=2A3A1A849F72BC2B)
+- [MS-500](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F25719711E750939?sharingId=2A3A1A849F72BC2B)
+- [SC-400](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F945269A5796D576?sharingId=2A3A1A849F72BC2B)
+
+<h2>📝 Popular LinkedIn posts</h2>
+
+- [SC-400 Changes in June 2023](https://www.linkedin.com/posts/activity-7048013730961338368-GYaW/)
+- [SC-200 Changes in June 2023](https://www.linkedin.com/feed/update/urn:li:activity:7053793847641825280/)
+
+<h2>🤝🏽 Collaborations</h2>
+
+- [Zync Interview](https://www.youtube.com/watch?v=gmiwYLo8YIk)
