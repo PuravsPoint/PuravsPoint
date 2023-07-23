@@ -3,9 +3,6 @@
 <h2>👨‍💻 Microsoft Security Projects:</h2>
 
 - <b>Unified Audit Log</b>
-  - [Deciphering the Unified Audit Log](https://github.com/PuravsPoint/DecipheringUAL)
-- <b>eDiscovery (Coming soon)</b>
-- <b>Exchange Online (Coming soon)</b>
  
 <h2>✅ Certifications:</h2>
 
