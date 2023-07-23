@@ -14,7 +14,7 @@
 
 - [Incident Response in Microsoft 365 Defender](https://www.linkedin.com/feed/update/urn:li:activity:7074266914918653952)
 - [Sharing MDE Insight at Microsoft Secure](https://www.linkedin.com/feed/update/urn:li:activity:7049428053566869505)
-- [Passing the SC-400 and sharing my experience/insight](https://www.linkedin.com/feed/update/urn:li:activity:7057629438938632193)
+- [SC-400 Changes in June 2023](https://www.linkedin.com/feed/update/urn:li:activity:7048013730961338368)
 - [Passing the SC-200 and sharing my experience/insight](https://www.linkedin.com/feed/update/urn:li:activity:6960094470067396608)
 
 <h2>🤝🏽 Collaborations</h2>
