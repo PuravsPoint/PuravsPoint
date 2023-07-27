@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Microsoft Security Projects:</h2>
 
-- <b>DecipheringUAL (https://github.com/PuravsPoint/DecipheringUAL)</b>
+- <b>[DecipheringUAL](https://github.com/PuravsPoint/DecipheringUAL)</b>
  
 <h2>✅ Certifications:</h2>
 
