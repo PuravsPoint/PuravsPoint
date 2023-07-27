@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Microsoft Security Projects:</h2>
 
-- <b>Unified Audit Log (Coming soon)</b>
+- <b>Unified Audit Log (https://github.com/PuravsPoint/DecipheringUAL)</b>
  
 <h2>✅ Certifications:</h2>
 
