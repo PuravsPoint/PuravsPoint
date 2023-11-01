@@ -4,11 +4,13 @@
 
 - <b>[DecipheringUAL](https://github.com/PuravsPoint/DecipheringUAL)</b>
  
-<h2>✅ Certifications:</h2>
+<h2>✅ Credentials:</h2>
 
-- [SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/832F0A579BDB4C5B?sharingId=2A3A1A849F72BC2B)
-- [MS-500: Microsoft 365 Certified: Security Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F25719711E750939?sharingId=2A3A1A849F72BC2B)
-- [SC-400: Information Protection Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F945269A5796D576?sharingId=2A3A1A849F72BC2B)
+- [Configure SIEM security operations using Microsoft Sentinel - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/4DD96D95628989BA)
+- [SC-400: Information Protection Administrator Associate - Certification](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F945269A5796D576?sharingId=2A3A1A849F72BC2B)
+- [SC-200: Microsoft Security Operations Analyst - Certification](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/832F0A579BDB4C5B?sharingId=2A3A1A849F72BC2B)
+- [MS-500: Microsoft 365 Certified: Security Administrator Associate - Certification](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F25719711E750939?sharingId=2A3A1A849F72BC2B)
+
 
 <h2>📝 Popular LinkedIn posts</h2>
 
