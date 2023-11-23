@@ -11,7 +11,7 @@
 - [Configure SIEM security operations using Microsoft Sentinel - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/4DD96D95628989BA) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7125185465216823298/)
 - [SC-400: Information Protection Administrator Associate - Certification](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/f945269a5796d576) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7057654281146916865)
 - [SC-200: Microsoft Security Operations Analyst - Certification](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/832f0a579bdb4c5b) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6960094470067396608/)
-- [MS-500: Microsoft 365 Certified: Security Administrator Associate - Certification](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/f25719711e750939)
+- [MS-500: Microsoft 365 Certified: Security Administrator Associate - Certification](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/f25719711e750939) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6991352082121248769/)
 
 
 <h2>📝 Popular LinkedIn posts</h2>
