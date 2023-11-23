@@ -6,6 +6,7 @@
  
 <h2>✅ Credentials:</h2>
 
+- [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/7ed8461bc185f502) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7126908208589238272)
 - [Secure storage for Azure Files and Azure Blob Storage - Applied Skill](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/7ed8461bc185f502) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7126908208589238272/)
 - [Configure SIEM security operations using Microsoft Sentinel - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/4DD96D95628989BA) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7125185465216823298/)
 - [SC-400: Information Protection Administrator Associate - Certification](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F945269A5796D576?sharingId=2A3A1A849F72BC2B)
