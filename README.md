@@ -6,6 +6,7 @@
  
 <h2>✅ Credentials:</h2>
 
+- [AZ-500: Azure Security Engineer Associate - Certification](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/93e77b09ede7e13a) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7135921809786298368/)
 - [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls - Applied Skill](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/cca2ab0c8b2ad5d9) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7131686531047550976/)
 - [Secure storage for Azure Files and Azure Blob Storage - Applied Skill](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/7ed8461bc185f502) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7126908208589238272/)
 - [Configure SIEM security operations using Microsoft Sentinel - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/4DD96D95628989BA) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7125185465216823298/)
