@@ -6,6 +6,7 @@
  
 <h2>✅ Credentials:</h2>
 
+- [Implement security through a pipeline using Azure DevOps - Applied Skill](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/6c25336861efb1f6) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7142586353858351104/)
 - [AZ-500: Azure Security Engineer Associate - Certification](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/93e77b09ede7e13a) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7135921809786298368/)
 - [Configure secure access to your workloads using Azure networking - Applied Skill](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/e89eca3a18efe35a) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7134933904666292224/)
 - [Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls - Applied Skill](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/cca2ab0c8b2ad5d9) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7131686531047550976/)
