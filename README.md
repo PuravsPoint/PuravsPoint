@@ -19,12 +19,14 @@
 
 <h2>📝 Popular LinkedIn posts</h2>
 
+- [My key tips for AZ-500, SC-200 and SC-400](https://www.linkedin.com/feed/update/urn:li:activity:7150047254576336896)
+- [Becoming a Top Cybersecurity Voice on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7120136708741898240)
+- [2023 Content Highlights](https://www.linkedin.com/feed/update/urn:li:activity:7146631199279501312)
+- [M365 Copilot integrations with Purview Compliance](https://www.linkedin.com/feed/update/urn:li:activity:7126549292089012224/)
 - [Incident Response in Microsoft 365 Defender](https://www.linkedin.com/feed/update/urn:li:activity:7074266914918653952)
 - [Sharing MDE Insight at Microsoft Secure](https://www.linkedin.com/feed/update/urn:li:activity:7049428053566869505)
-- [SC-400 Changes in June 2023](https://www.linkedin.com/feed/update/urn:li:activity:7048013730961338368)
-- [Passing the SC-200 and sharing my experience/insight](https://www.linkedin.com/feed/update/urn:li:activity:6960094470067396608)
 
 <h2>🤝🏽 Collaborations</h2>
 
-- [Zync Interview](https://www.youtube.com/watch?v=gmiwYLo8YIk)
+- [Zync Interview](https://youtu.be/gmiwYLo8YIk)
 - [All Things M365 Compliance EP 18](https://youtu.be/viKiu-PZ7tQ)
