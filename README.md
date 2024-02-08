@@ -30,3 +30,4 @@
 
 - [Zync Interview](https://youtu.be/gmiwYLo8YIk)
 - [All Things M365 Compliance EP 18](https://youtu.be/viKiu-PZ7tQ)
+- [Microsoft Security Insights Show Episode 187](https://youtu.be/IgzdBDPe0hU)
