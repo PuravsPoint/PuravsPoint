@@ -30,6 +30,6 @@
 <h2>🤝🏽 Collaborations</h2>
 
 - [Zync Interview](https://youtu.be/gmiwYLo8YIk)
-- [All Things M365 Compliance EP 18](https://youtu.be/viKiu-PZ7tQ)
+- [All Things M365 Compliance Episode 18](https://youtu.be/viKiu-PZ7tQ)
 - [Microsoft Security Insights Show Episode 187](https://youtu.be/IgzdBDPe0hU)
-- [KQL Cafe Episode 22](https://youtu.be/iz6UPgOjD-k)
+- [KQL Cafe Show Episode 22](https://youtu.be/iz6UPgOjD-k)
