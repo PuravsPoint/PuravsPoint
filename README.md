@@ -31,6 +31,6 @@
 
 - [Zync Interview](https://youtu.be/gmiwYLo8YIk)
 - [All Things M365 Compliance Episode 18](https://youtu.be/viKiu-PZ7tQ)
-- [Festive Tech Calendar 2023 - Day 03 - DecipheringUAL](https://youtu.be/osJ1L4wNgFc)
+- [Festive Tech Calendar 2023 Day 03](https://youtu.be/osJ1L4wNgFc)
 - [Microsoft Security Insights Show Episode 187](https://youtu.be/IgzdBDPe0hU)
 - [KQL Cafe Show Episode 22](https://youtu.be/iz6UPgOjD-k)
