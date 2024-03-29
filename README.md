@@ -20,7 +20,8 @@
 <h2>📝 Popular LinkedIn posts</h2>
 
 - [My key tips for AZ-500, SC-200 and SC-400](https://www.linkedin.com/feed/update/urn:li:activity:7150047254576336896)
-- [Becoming a Top Cybersecurity Voice on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7120136708741898240)
+- [Cloud & Cyber Security Expo 2024 Recap](https://www.linkedin.com/feed/update/urn:li:activity:7171854650491523072)
+- [Testimonial from a community member who passed AZ-500 thanks to my post](https://www.linkedin.com/feed/update/urn:li:activity:7174851408800665601/)
 - [2023 Content Highlights](https://www.linkedin.com/feed/update/urn:li:activity:7146631199279501312)
 - [M365 Copilot integrations with Purview Compliance](https://www.linkedin.com/feed/update/urn:li:activity:7126549292089012224/)
 - [Incident Response in Microsoft 365 Defender](https://www.linkedin.com/feed/update/urn:li:activity:7074266914918653952)
@@ -31,3 +32,4 @@
 - [Zync Interview](https://youtu.be/gmiwYLo8YIk)
 - [All Things M365 Compliance EP 18](https://youtu.be/viKiu-PZ7tQ)
 - [Microsoft Security Insights Show Episode 187](https://youtu.be/IgzdBDPe0hU)
+- [KQL Cafe Episode 22](https://youtu.be/iz6UPgOjD-k)
