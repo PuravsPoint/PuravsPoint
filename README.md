@@ -34,3 +34,4 @@
 - [Festive Tech Calendar 2023 Day 03](https://youtu.be/osJ1L4wNgFc)
 - [Microsoft Security Insights Show Episode 187](https://youtu.be/IgzdBDPe0hU)
 - [KQL Cafe Show Episode 22](https://youtu.be/iz6UPgOjD-k)
+- [Cyberwox Detection Opportunities Ep 4](https://youtu.be/tmzHDI9JUaY)
