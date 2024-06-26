@@ -35,3 +35,4 @@
 - [Microsoft Security Insights Show Episode 187](https://youtu.be/IgzdBDPe0hU)
 - [KQL Cafe Show Episode 22](https://youtu.be/iz6UPgOjD-k)
 - [Cyberwox Detection Opportunities Ep 4](https://youtu.be/tmzHDI9JUaY)
+- [Cyberwox Detection Opportunities Ep 5](https://youtu.be/MRgESGQlwEo)
