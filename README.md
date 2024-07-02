@@ -6,7 +6,7 @@
  
 <h2>✅ Credentials:</h2>
 
-- [Administer Active Directory Domain Services - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/DE51C5D59C528CAA) | **LinkedIn Post dropping on 02.07.24**
+- [Administer Active Directory Domain Services - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/DE51C5D59C528CAA) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7213821226983550976)
 - [Implement security through a pipeline using Azure DevOps - Applied Skill](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/6c25336861efb1f6) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7142586353858351104/)
 - [AZ-500: Azure Security Engineer Associate - Certification](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/93e77b09ede7e13a) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7135921809786298368/)
 - [Configure secure access to your workloads using Azure networking - Applied Skill](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/e89eca3a18efe35a) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7134933904666292224/)
