@@ -38,3 +38,4 @@
 - [Cyberwox Detection Opportunities Ep 4](https://youtu.be/tmzHDI9JUaY)
 - [Cyberwox Detection Opportunities Ep 5](https://youtu.be/MRgESGQlwEo)
 - [NQB Recruitment Interview](https://youtu.be/SW8jpgreDfs)
+- [Cyberwox Detection Opportunities Ep 6](https://youtu.be/ve7jfRLY_ZM)
