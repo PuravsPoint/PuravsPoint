@@ -39,3 +39,4 @@
 - [Cyberwox Detection Opportunities Ep 5](https://youtu.be/MRgESGQlwEo)
 - [NQB Recruitment Interview](https://youtu.be/SW8jpgreDfs)
 - [Cyberwox Detection Opportunities Ep 6](https://youtu.be/ve7jfRLY_ZM)
+- [Microsoft Purview and Defender Days 2024 Virtual event - Video 17](https://youtu.be/7v6uY5Z3ie8)
