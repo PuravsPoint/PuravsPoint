@@ -45,3 +45,4 @@
 - [Cloud Security Today Season 4 Episode 10](https://www.cloudsecuritytoday.com/1723279/15505088-microsoft-365-incident-response)
 - [#MVPBuzzChat Episode 283](https://youtu.be/8_tnQfU31gs)
 - [Cyberwox Detection Opportunities Ep 7](https://youtu.be/cBxVg8wItAQ)
+- [How To Get Started with Microsoft Security - Mariana Tech Academy Webinar](https://youtu.be/QKnDXzz4yx0&t=1384)
