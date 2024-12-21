@@ -7,6 +7,7 @@
  
 <h2>✅ Credentials:</h2>
 
+- [Prepare security and compliance to support Microsoft 365 Copilot - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/EFCEFC4B4FA3BE59?sharingId=MVP_3881011) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7276174570112352256/)
 - [Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/463DEB754E2849F0?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7258768624201404416/)
 - [Implement information protection and data loss prevention by using Microsoft Purview - Applied Skill](https://learn.microsoft.com/en-gb/users/puravd-9957/credentials/5a6d62018db2ff30) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7245333956806471680/)
 - [Administer Active Directory Domain Services - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/DE51C5D59C528CAA) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7213821226983550976)
