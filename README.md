@@ -50,4 +50,5 @@
 - [Cyberwox Detection Opportunities Ep 7](https://youtu.be/cBxVg8wItAQ)
 - [How To Get Started with Microsoft Security - Mariana Tech Academy Webinar](https://youtu.be/QKnDXzz4yx0&t=1384)
 - [Zync Cyber Expert Insights - Cloud Security, MVP & Building Your Brand](https://youtu.be/-pe-fDSo7H8)
-- [Cloudfox Podcast Episode 7 - MDO for Incident Response](https://youtu.be/RAO5jPsO6Vo) 
+- [Cloudfox Podcast Episode 7 - MDO for Incident Response](https://youtu.be/RAO5jPsO6Vo)
+- [Festive Tech Calendar 2024 Day 26 - eDiscovery IR scenario for Teams](https://youtu.be/_GVkajW28ts)
