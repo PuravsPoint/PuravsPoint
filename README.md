@@ -52,3 +52,4 @@
 - [Zync Cyber Expert Insights - Cloud Security, MVP & Building Your Brand](https://youtu.be/-pe-fDSo7H8)
 - [Cloudfox Podcast Episode 7 - MDO for Incident Response](https://youtu.be/RAO5jPsO6Vo)
 - [Festive Tech Calendar 2024 Day 26 - eDiscovery IR scenario for Teams](https://youtu.be/_GVkajW28ts)
+- [BlueDragon Podcast S02E08 Bridging SecOps and Compliance](https://open.spotify.com/episode/4qE4pO5GyWXsh07kmq0N5t?si=r9D9OVqETCugQRBGpVbtQQ)
