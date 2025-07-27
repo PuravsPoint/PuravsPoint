@@ -7,6 +7,7 @@
  
 <h2>✅ Credentials:</h2>
 
+- [Get started with identities and access using Microsoft Entra - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F3F1ECAC30C20454?sharingId=MVP_388101) | [LinkedIn post coming soon]
 - [Defend against cyberthreats with Microsoft Defender XDR - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/DB92EDC3A755353A?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7276891791402930177/)
 - [Prepare security and compliance to support Microsoft 365 Copilot - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/EFCEFC4B4FA3BE59?sharingId=MVP_3881011) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7276174570112352256/)
 - [Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/463DEB754E2849F0?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7258768624201404416/)
