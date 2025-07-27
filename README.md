@@ -7,7 +7,7 @@
  
 <h2>✅ Credentials:</h2>
 
-- [Get started with identities and access using Microsoft Entra - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F3F1ECAC30C20454?sharingId=MVP_388101) | [LinkedIn post coming soon]
+- [Get started with identities and access using Microsoft Entra - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F3F1ECAC30C20454?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7355241235776765952/)
 - [Defend against cyberthreats with Microsoft Defender XDR - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/DB92EDC3A755353A?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7276891791402930177/)
 - [Prepare security and compliance to support Microsoft 365 Copilot - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/EFCEFC4B4FA3BE59?sharingId=MVP_3881011) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7276174570112352256/)
 - [Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/463DEB754E2849F0?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7258768624201404416/)
@@ -53,4 +53,5 @@
 - [Zync Cyber Expert Insights - Cloud Security, MVP & Building Your Brand](https://youtu.be/-pe-fDSo7H8)
 - [Cloudfox Podcast Episode 7 - MDO for Incident Response](https://youtu.be/RAO5jPsO6Vo)
 - [Festive Tech Calendar 2024 Day 26 - eDiscovery IR scenario for Teams](https://youtu.be/_GVkajW28ts)
+- [Microsoft Learn Interview about Applied Skills](https://www.linkedin.com/feed/update/urn:li:ugcPost:7323345664367624192/)
 - [BlueDragon Podcast S02E08 Bridging SecOps and Compliance](https://open.spotify.com/episode/4qE4pO5GyWXsh07kmq0N5t?si=r9D9OVqETCugQRBGpVbtQQ)
