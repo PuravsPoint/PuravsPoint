@@ -56,3 +56,4 @@
 - [Microsoft Learn Interview about Applied Skills](https://www.linkedin.com/feed/update/urn:li:ugcPost:7323345664367624192/)
 - [BlueDragon Podcast S02E08 Bridging SecOps and Compliance](https://open.spotify.com/episode/4qE4pO5GyWXsh07kmq0N5t?si=r9D9OVqETCugQRBGpVbtQQ)
 - [The Azure & AI Show - 26th July 2025](https://www.youtube.com/live/VME7aIvsQv8?si=rWL0MaM-h0iQEaht&t=1189)
+- [Defender User Group Sept 2025 - Integrating M365 with MDCA? Watch out for these traps!](https://youtu.be/k-y4ilG_VnQ)
