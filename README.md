@@ -57,3 +57,5 @@
 - [BlueDragon Podcast S02E08 Bridging SecOps and Compliance](https://open.spotify.com/episode/4qE4pO5GyWXsh07kmq0N5t?si=r9D9OVqETCugQRBGpVbtQQ)
 - [The Azure & AI Show - 26th July 2025](https://www.youtube.com/live/VME7aIvsQv8?si=rWL0MaM-h0iQEaht&t=1189)
 - [Defender User Group Sept 2025 - Integrating M365 with MDCA? Watch out for these traps!](https://youtu.be/k-y4ilG_VnQ)
+- [Speaking at DTX London 2025 on AI Security](https://www.linkedin.com/pulse/dtx-london-2025-recap-purav-desai-igeje/)
+- [MDO TechCommunity Blog: Migration & Onboarding](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-defender-for-office-365-migration--onboarding/4462906)
