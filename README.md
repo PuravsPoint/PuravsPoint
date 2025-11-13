@@ -7,6 +7,7 @@
  
 <h2>✅ Credentials:</h2>
 
+- [Secure AI Solutions in the Cloud - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/7A7010D07AE098DB?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7394869017515040769/)
 - [Get started with identities and access using Microsoft Entra - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/F3F1ECAC30C20454?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7355241235776765952/)
 - [Defend against cyberthreats with Microsoft Defender XDR - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/DB92EDC3A755353A?sharingId=MVP_388101) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7276891791402930177/)
 - [Prepare security and compliance to support Microsoft 365 Copilot - Applied Skill](https://learn.microsoft.com/api/credentials/share/en-gb/PuravD-9957/EFCEFC4B4FA3BE59?sharingId=MVP_3881011) | [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7276174570112352256/)
