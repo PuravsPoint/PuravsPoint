@@ -62,3 +62,4 @@
 - [MDO TechCommunity Blog: Migration & Onboarding](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-defender-for-office-365-migration--onboarding/4462906)
 - [DevSecBlueprint - Azure Security for Beginners: IAM, Defender, Sentinel & Career Advice](https://youtu.be/2CGTMuTQoaE)
 - [Intl Data Security User Group - Deep Dive into Microsoft Purview Auditing: Real Cases & Practical Tips](https://youtu.be/TzDTu3pATkk)
+- [Microsoft Defender for Office 365 | Ask the Experts: Tips and Tricks](https://youtu.be/2WLsJg2tizI)
