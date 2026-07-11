@@ -61,3 +61,4 @@
 - [Speaking at DTX London 2025 on AI Security](https://www.linkedin.com/pulse/dtx-london-2025-recap-purav-desai-igeje/)
 - [MDO TechCommunity Blog: Migration & Onboarding](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-defender-for-office-365-migration--onboarding/4462906)
 - [DevSecBlueprint - Azure Security for Beginners: IAM, Defender, Sentinel & Career Advice](https://youtu.be/2CGTMuTQoaE)
+- [Intl Data Security User Group - Deep Dive into Microsoft Purview Auditing: Real Cases & Practical Tips](https://youtu.be/TzDTu3pATkk)
