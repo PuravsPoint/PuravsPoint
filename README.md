@@ -60,3 +60,4 @@
 - [Defender User Group Sept 2025 - Integrating M365 with MDCA? Watch out for these traps!](https://youtu.be/k-y4ilG_VnQ)
 - [Speaking at DTX London 2025 on AI Security](https://www.linkedin.com/pulse/dtx-london-2025-recap-purav-desai-igeje/)
 - [MDO TechCommunity Blog: Migration & Onboarding](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/microsoft-defender-for-office-365-migration--onboarding/4462906)
+- [DevSecBlueprint - Azure Security for Beginners: IAM, Defender, Sentinel & Career Advice](https://youtu.be/2CGTMuTQoaE)
