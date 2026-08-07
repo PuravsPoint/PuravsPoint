@@ -55,7 +55,7 @@
 - [Zync Cyber Expert Insights - Cloud Security, MVP & Building Your Brand](https://youtu.be/-pe-fDSo7H8)
 - [Cloudfox Podcast Episode 7 - MDO for Incident Response](https://youtu.be/RAO5jPsO6Vo)
 - [Festive Tech Calendar 2024 Day 26 - eDiscovery IR scenario for Teams](https://youtu.be/_GVkajW28ts)
-- [Microsoft Learn Interview about Applied Skills](https://www.linkedin.com/feed/update/urn:li:ugcPost:7323345664367624192/)
+- [Microsoft Learn Interview about Applied Skills](https://www.linkedin.com/feed/update/urn:li:ugcPost:7323345664367624192/) | [Featured on Microsoft Learn Applied Skills page](https://www.linkedin.com/feed/update/urn:li:activity:7345428438565941253/)
 - [BlueDragon Podcast S02E08 Bridging SecOps and Compliance](https://open.spotify.com/episode/4qE4pO5GyWXsh07kmq0N5t?si=r9D9OVqETCugQRBGpVbtQQ)
 - [The Azure & AI Show - 26th July 2025](https://www.youtube.com/live/VME7aIvsQv8?si=rWL0MaM-h0iQEaht&t=1189)
 - [Defender User Group Sept 2025 - Integrating M365 with MDCA? Watch out for these traps!](https://youtu.be/k-y4ilG_VnQ)
